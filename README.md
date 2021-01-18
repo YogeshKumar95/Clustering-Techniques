@@ -1,2 +1,4 @@
 # Clustering-Techniques
-K-Means,K-Means++, Spectral Algos scratch
+K-Means,K-Means++, Spectral Algos are implemented from scratch
+
+
